@@ -116,18 +116,14 @@ Here are some screenshots showing what I did:
 ### Launch Template Created
 <img width="1920" height="950" alt="launch template" src="https://github.com/user-attachments/assets/c9fb0d10-3a17-4121-acae-a0495e2c5372" />
 
-![Launch Template Screenshot](./screenshots/launch-template.png)
 
 ### Auto Scaling Group Configured
 <img width="1920" height="949" alt="AUTOSGdashboard" src="https://github.com/user-attachments/assets/626dc446-b16b-417f-8fab-9e854692259f" />
 
-![Auto Scaling Group Screenshot](./screenshots/auto-scaling-group.png)
 
 ### Scaling Policies Set
 <img width="1920" height="949" alt="AUTOSGscalingpolicy" src="https://github.com/user-attachments/assets/d6a52667-794e-450b-9b83-32e193c33279" />
 
-
-![ALB Attachment Screenshot](./screenshots/alb-attachment.png)
 
 ### Instances Increased During Load Test
 <img width="1920" height="947" alt="activity tab" src="https://github.com/user-attachments/assets/27fc94d9-3f94-4d19-8371-13bd042ebd86" />
@@ -139,7 +135,7 @@ Here are some screenshots showing what I did:
 
 ---
 
-## 💭 What I Learned
+##  What I Learned
 
 * **Launch Templates** make it easy to reuse EC2 settings.
 * **Auto Scaling Groups** help maintain application performance by automatically adjusting resources.
